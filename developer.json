@@ -1,0 +1,159 @@
+{
+    "name": "Sanjar Saydaliyev",
+    "logo_name": "GoSanjar",
+    "role": "Full-Stack developer",
+    "about": {
+        "sections": {
+            "professional-info": {
+                "title": "professional-info",
+                "icon": "icons/info-professional.svg",
+                "info": {
+                    "experience": {
+                        "title": "experience",
+                        "description": "<body><p>From 2021, I started to acquire deep knowledge in the field of IT. My interest in technology has driven me to develop and learn new skills every day. Since 2022, I have been working as a freelancer, gaining valuable experience by independently handling various projects.</p><p>In 2023, I dedicated myself entirely to web programming. Since then, I have worked on a variety of projects, including:</p><br><ul><li><strong>Landing Page Websites:</strong> Created high-quality landing pages that attract buyers and boost sales.</li><li><strong>CRM Systems:</strong> Developed CRM systems to help businesses effectively manage and establish customer relationships.</li><li><strong>Telegram Bots:</strong> Built various functional bots for interactive communication with users.</li><li><strong>Computer Programs:</strong> Developed applications tailored to both corporate and personal needs.</li></ul><br><p>Currently, I am a Full Stack Web Developer, proficient in both frontend and backend technologies. I have extensive experience in crafting complex web software solutions.</p><p>Through continuous engagement with cutting-edge technologies and constant learning, I approach each project with innovation and efficiency. My goal is to deeply understand each client's needs and deliver top-notch services.</p></body>"
+                    },
+                    "hard-skills": {
+                        "title": "hard-skills",
+                        "description": "<body><h1>Technical Skills</h1><h2><br>Frontend Technologies:</h2><ul><li><strong>HTML5:</strong> For semantic markups and SEO optimization.</li><li><strong>CSS3:</strong> Advanced CSS3 capabilities for styling and creating design elements.</li><li><strong>Sass:</strong> Sass preprocessor for handling complex CSS codes.</li><li><strong>JavaScript (JS):</strong> For creating interactive and dynamic websites.</li><li><strong>Bootstrap:</strong> For fast and responsive designs.</li><li><strong>ReactJS:</strong> To create Single Page Applications (SPA).</li></ul><h2><br>Backend Technologies:</h2><ul><li><strong>JavaScript (Node.js):</strong> Server-side programming.</li><li><strong>Python:</strong> For creating backend services and scripts.</li></ul><h2><br>Databases:</h2><ul><li><strong>PostgreSQL:</strong> Relational database.</li><li><strong>MySQL:</strong> Common database manager.</li><li><strong>MongoDB:</strong> NoSQL database.</li></ul><h2><br>Special Applications:</h2><ul><li><strong>Telegram Bots:</strong> Creating bots to communicate with users.</li><li><strong>Windows Applications:</strong> Developing programs for the Windows platform.</li></ul></body>"
+                    },
+                    "soft-skills": {
+                        "title": "soft-skills",
+                        "description": "<body><p>I bring a diverse set of soft skills that complement my technical expertise, enabling me to effectively collaborate and innovate in any project environment. Here are some key soft skills I possess:</p><br><ul><li><strong>Communication:</strong> Excellent verbal and written communication skills, enabling clear and effective interactions with clients, team members, and stakeholders.</li><li><strong>Problem-Solving:</strong> Strong analytical abilities to identify issues and develop creative solutions efficiently.</li><li><strong>Time Management:</strong> Proven ability to prioritize tasks and manage time effectively to meet deadlines and deliver quality work.</li><li><strong>Teamwork:</strong> Experience working in diverse teams, demonstrating flexibility, reliability, and a collaborative spirit.</li><li><strong>Adaptability:</strong> Quick to adapt to new technologies, tools, and processes, staying agile in a fast-changing environment.</li><li><strong>Leadership:</strong> Capable of leading projects and guiding teams towards achieving common goals with a focus on quality and efficiency.</li><li><strong>Attention to Detail:</strong> Meticulous in ensuring the accuracy and quality of work, consistently delivering high-standard results.</li></ul><br><p>These soft skills enhance my ability to not only execute technical tasks but also to engage effectively with various stakeholders, driving successful project outcomes and fostering positive professional relationships.</p></body>"
+                    }
+                }
+            },
+            "personal-info": {
+                "title": "personal-info",
+                "icon": "icons/info-personal.svg",
+                "info": {
+                    "bio": {
+                        "title": "bio",
+                        "description": "<body><p>I am a 21-year-old enthusiastic programmer with a deep passion for coding and technology. Currently, I am honing my skills in backend development using Node.js and exploring various new concepts and technologies. My primary goal is to achieve high-level proficiency in programming and to excel in the field by consistently expanding my knowledge and tackling challenging projects. I am committed to continuous learning and innovation, striving to make significant strides in my programming career.</p></body>"
+                    },
+                    "interests": {
+                        "title": "interests",
+                        "description": "<body><p>My interests extend beyond programming and reflect a broad curiosity about technology and the digital world. Here are some areas that I am particularly passionate about:</p><br><ul><li><strong>Software Development:</strong> I enjoy exploring new programming languages, frameworks, and tools to create innovative software solutions.</li><li><strong>Web Development:</strong> I have a keen interest in designing and building interactive, user-friendly websites and web applications.</li><li><strong>Artificial Intelligence:</strong> The potential of AI fascinates me, and I am eager to learn how it can be leveraged to solve real-world problems.</li><li><strong>Cybersecurity:</strong> Understanding the intricacies of protecting data and systems from cyber threats is an area I find intriguing.</li><li><strong>Open Source Contribution:</strong> I am passionate about contributing to open-source projects and being part of the collaborative developer community.</li><li><strong>Gaming and Game Development:</strong> I love gaming and am interested in the process of creating engaging and immersive game experiences.</li><li><strong>Continuous Learning:</strong> I am dedicated to lifelong learning, whether it's through online courses, reading tech blogs, or attending workshops and conferences.</li></ul><br><p>These interests fuel my motivation and creativity, inspiring me to push the boundaries of what I can achieve in the tech world.</p></body>"
+                    },
+                    "education": {
+                        "title": "education",
+                        "description": "<body><h1>Education</h1><p><strong>Bachelor's Degree</strong><br>Jizzakh Branch of the National University of Uzbekistan named after Mirzo Ulugbek<br>09/2020 - Present, Jizzakh, Uzbekistan<br>GPA: 4.8</p><p><strong>Full-Stack Programming Course</strong><br>Location: Jizzakh City, Main Building of the Jizzakh Branch of the National University</p></body>",
+                        "files": {
+                            "high-school": "I have been in 'Las viñas'...",
+                            "university": "The university..."
+                        }
+                    }
+                }
+            },
+            "hobbies-info": {
+                "title": "hobbies-info",
+                "icon": "icons/info-hobbies.svg",
+                "info": {
+                    "sports": {
+                        "title": "sports",
+                        "description": "<body><p>I am an avid sports enthusiast with a passion for both playing and watching various sports. Here are some of the sports I enjoy:</p><br><ul><li><strong>Soccer:</strong> Playing soccer not only helps me stay fit but also enhances my teamwork and strategic thinking skills.</li><li><strong>Basketball:</strong> I love the fast-paced nature of basketball and the coordination required to excel at the game.</li><li><strong>Running:</strong> Long-distance running is my go-to activity for building endurance and clearing my mind.</li><li><strong>Swimming:</strong> Swimming offers a perfect blend of relaxation and a full-body workout.</li></ul><br><p>Sports play a significant role in my life, helping me maintain a healthy balance between physical activity and mental focus.</p></body>"
+                    },
+                    "favorite-games": {
+                        "title": "favorite-games",
+                        "description": "<body><p>I am a passionate gamer with a love for diverse genres and immersive gameplay. Here are some of my favorite games:</p><br><ul><li><strong>The Witcher 3:</strong> An epic RPG with a rich storyline and stunning open world that captivates me every time.</li><li><strong>Valorant:</strong> A tactical first-person shooter that challenges my strategic thinking and team coordination.</li><li><strong>Among Us:</strong> A fun and engaging social deduction game that’s perfect for playing with friends.</li><li><strong>League of Legends:</strong> A highly competitive MOBA where strategy and teamwork are crucial to victory.</li><li><strong>Minecraft:</strong> Endless creativity and exploration in a sandbox environment.</li></ul><br><p>Gaming is more than just a hobby for me; it's a way to unwind, challenge myself, and connect with a global community of players.</p></body>"
+                    }
+                }
+            }
+        }
+    },
+    "contacts": {
+        "direct": {
+            "title": "contacts",
+            "sources": {
+                "email": "sanjarcpp@gmail.com",
+                "phone": "+998886483338"
+            }
+        },
+        "social": {
+            "github": {
+                "title": "Github profile",
+                "url": "https://github.com/",
+                "user": "sanjarsaydaliyev"
+            },
+            "instagram": {
+                "title": "Facebook profile",
+                "url": "https://instagram.com/",
+                "user": "sanjarsaydaliyev"
+            },
+            "telegram": {
+                "title": "Telegram account",
+                "url": "https://t.me/",
+                "user": "sanjarsaydaliyev"
+            }
+        },
+        "find_me_also_in": {
+            "title": "find-me-also-in",
+            "sources": {
+                "youtube": {
+                    "title": "YouTube channel",
+                    "url": "https://www.youtube.com/",
+                    "user": "@GoSanjar"
+                },
+                "instagram": {
+                    "title": "Instagram account",
+                    "url": "https://instagram.com/",
+                    "user": "sanjarsaydaliyev"
+                },
+                "telegram": {
+                    "title": "Portfolio channel",
+                    "url": "https://t.me/",
+                    "user": "thsanjar"
+                }
+            }
+        }
+    },
+    "gists": {
+        "1": "83861a67e377633ee8368df01ee3a355",
+        "2": "694c1f32332788a2ac7f37b09e5aa40e"
+    },
+    "projects": {
+        "1": {
+            "id": 1,
+            "title": "_pre_school_crm",
+            "description": "This system manages kindergarten data like children, employees, attendance, and more.",
+            "img": "/images/projects/pre_School_crm.jpg",
+            "tech": [
+                "HTML",
+                "CSS",
+                "JS"
+            ],
+            "url": "https://t.me/thsanjar/4"
+        },
+        "2": {
+            "id": 2,
+            "title": "_bmg_soft",
+            "description": "Portfolio website for BMG Soft IT company",
+            "img": "/images/projects/bmgsoft.uz.jpg",
+            "tech": [
+                "HTML",
+                "CSS",
+                "JS"
+            ],
+            "url": "https://bmgsoft.uz/"
+        },
+        "3": {
+            "id": 3,
+            "title": "_texnologistika_bot",
+            "description": "⚪️All kinds of special techniques☎️For inquiries: +998712001213✍️Telegram: @Technologistic",
+            "img": "/images/projects/texnologistika_bot.jpg",
+            "tech": [
+                "Bot"
+            ],
+            "url": "https://t.me/Texnologistic_bot"
+        },
+        "4": {
+            "id": 4,
+            "title": "_express_non_bot",
+            "description": "You can order our bakery products in this bot.",
+            "img": "/images/projects/express_non.jpg",
+            "tech": [
+                "Bot"
+            ],
+            "url": "https://t.me/express_non_bot"
+        }
+    }
+}
