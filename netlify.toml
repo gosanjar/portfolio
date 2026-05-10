@@ -1,6 +1,7 @@
 [build]
   command = "nuxt generate"
-  publish = ".output/public"
+  publish = "dist"
 
 [build.environment]
   NODE_VERSION = "18"
+  NITRO_PRESET = "static"
