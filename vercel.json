@@ -1,5 +1,6 @@
 {
   "installCommand": "yarn install --ignore-engines",
   "buildCommand": "nuxt generate",
-  "outputDirectory": ".output/public"
+  "outputDirectory": ".output/public",
+  "framework": null
 }
